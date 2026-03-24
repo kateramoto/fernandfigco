@@ -1,5 +1,4 @@
-This is actually really good already — your edits made it much more personal. Here's a rewrite that keeps everything you wrote but makes it feel more like texting a friend:
-markdown---
+---
 layout: post
 title: "Flying with a Baby: Everything I Learned After Doing It Multiple Times"
 date: 2026-03-24
