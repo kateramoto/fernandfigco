@@ -44,7 +44,7 @@ Those two requirements alone narrowed the field significantly.
 
 ## Why I Almost Got the Babyzen YOYO
 
-The [Babyzen YOYO](https://amzn.to/xxxxxx) comes up in literally every travel stroller conversation and for good reason. It's lightweight, it folds incredibly compact, and it fits in the overhead bin on most airlines. It has a cult following for a reason.
+The [Babyzen YOYO](https://amzn.to/41qR8Zm) comes up in literally every travel stroller conversation and for good reason. It's lightweight, it folds incredibly compact, and it fits in the overhead bin on most airlines. It has a cult following for a reason.
 
 But here's the thing nobody leads with: **the YOYO is not newborn compatible out of the box.**
 
@@ -56,7 +56,7 @@ That sent me back to the drawing board.
 
 ## Why I Chose the Silver Cross Jet
 
-The [Silver Cross Jet](https://amzn.to/xxxxxx) kept coming up as a direct YOYO alternative and once I started reading about it I understood why.
+The [Silver Cross Jet](https://amzn.to/4d43IF5) kept coming up as a direct YOYO alternative and once I started reading about it I understood why.
 
 <table style="width:100%; border-collapse:collapse; margin:1.5em 0;">
   <thead>
