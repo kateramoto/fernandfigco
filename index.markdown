@@ -1,6 +1,30 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: ""
 ---
+
+<div class="category-section">
+  <h2>✈️ Travel</h2>
+  <p class="category-desc">Real talk about traveling with a baby — what to pack, what to skip, and what nobody tells you.</p>
+  {% assign travel_posts = site.posts | where_exp: "post", "post.categories contains 'travel'" | limit: 2 %}
+  {% for post in travel_posts %}
+  <article class="post-preview">
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+  </article>
+  {% endfor %}
+  <a href="/travel/" class="see-all">See all travel posts →</a>
+</div>
+
+<div class="category-section">
+  <h2>👶 Preparing for Baby</h2>
+  <p class="category-desc">The research I did so you don't have to — registry lists, hospital bags, and everything in between.</p>
+  {% assign prep_posts = site.posts | where_exp: "post", "post.categories contains 'preparing-for-baby'" | limit: 2 %}
+  {% for post in prep_posts %}
+  <article class="post-preview">
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+  </article>
+  {% endfor %}
+  <a href="/preparing-for-baby/" class="see-all">See all preparing for baby posts →</a>
+</div>
