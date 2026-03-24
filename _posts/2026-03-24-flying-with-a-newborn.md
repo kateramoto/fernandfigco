@@ -4,6 +4,9 @@ title: "Flying with a Baby: Everything I Learned After Doing It Multiple Times"
 date: 2026-03-24
 categories: travel baby
 ---
+*This post contains affiliate links. If you purchase through my links 
+I may earn a small commission at no extra cost to you — I only recommend 
+products I've actually used.*
 
 Nobody tells you that flying with a baby is basically a logistics operation. You're not just packing for a trip — you're packing a portable version of your entire life, anticipating every possible need at 30,000 feet, and doing it all while running on broken sleep.
 
@@ -15,7 +18,7 @@ I flew with my daughter multiple times in her first year and a half, with her fi
 
 **The essentials:**
 - **Stroller** — We carried ours onto the plane and stored it in the overhead bins.
-- **Car seat + car seat bag** — Our top priority was protecting the car seat + stroller from being thrown around which meant that we gate checked the carseat. Pro tip: the car seat bag doubles as an extra bag. We stuffed ours full of diapers and all of our daughters things. Highly suggest rolling it down the jet bridge on the stroller.
+- **Car seat + [car seat bag](https://amzn.to/4bJyIYJ)** — Our top priority was protecting the car seat + stroller from being thrown around which meant that we gate checked the carseat. Pro tip: the car seat bag doubles as an extra bag. We stuffed ours full of diapers and all of our daughters things. Highly suggest rolling it down the jet bridge on the stroller.
 - **Baby wearing carrier** — I baby wore my daughter through TSA and during boarding until she was about 2 years old. Hands-free is everything when you're juggling a boarding pass, a diaper bag, and your dignity.
 - **Pack and play + sheets** — We checked-in the pack and play along with a large suitcase. Some airlines, like Delta, will count the pack and play as a baby item and will not charge a bag fee. Definitely check your airlines policy.
 - **Portable sound machine** — non-negotiable. Plane noise is basically white noise to them, but once you're on the ground again you definitely don't want to be without it if your baby typically uses a white noise machine at home.
