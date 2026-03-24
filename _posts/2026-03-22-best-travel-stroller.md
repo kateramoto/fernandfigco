@@ -108,7 +108,7 @@ It held up through multiple trips without any issues. The fold is fast and actua
 
 > 💡 **Pro tip:** Roll the stroller all the way down the jet bridge before handing it off — don't check it at the counter. Gate checking means it gets handled more gently and comes back to you right at the plane door when you land.
 
-A couple things I'd flag: the fold is tricky to learn, definitely check out this [video](https://www.youtube.com/watch?v=tmH8-YUUjJs), once you get the hang of it -- it's magic. also it's not a stroller you'd want as your only stroller for everyday use. The basket underneath is on the smaller side and it's not built for rough terrain. But as a dedicated travel stroller? It's exactly what it's supposed to be.
+A couple things I'd flag: the fold is tricky to learn, definitely check out this [video](https://www.youtube.com/shorts/NuWhLSWbOrc), once you get the hang of it -- it's magic. also it's not a stroller you'd want as your only stroller for everyday use. The basket underneath is on the smaller side and it's not built for rough terrain. But as a dedicated travel stroller? It's exactly what it's supposed to be.
 
 ---
 
