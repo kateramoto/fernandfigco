@@ -7,3 +7,7 @@ url: "https://fernandfigco.com"
 theme: minima
 plugins:
   - jekyll-feed
+header_pages:
+  - travel.md
+  - preparing-for-baby.md
+  - about.markdown
