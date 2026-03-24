@@ -4,9 +4,10 @@ title: "Flying with a Baby: Everything I Learned After Doing It Multiple Times"
 date: 2026-03-24
 categories: travel baby
 ---
-*This post contains affiliate links. If you purchase through my links 
-I may earn a small commission at no extra cost to you — I only recommend 
-products I've actually used.*
+
+<img src="/assets/images/flying-with-baby.jpg" alt="Flying with a baby" style="width:100%; height:350px; object-fit:cover; border-radius:8px; margin-bottom:2em;">
+
+*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you — I only recommend products I've actually used.*
 
 Flying with a baby is a lot. You're not just packing for a trip — you're packing a portable version of your entire life, trying to anticipate every possible need at 30,000 feet, on broken sleep. Cool cool cool.
 
@@ -24,36 +25,113 @@ Bring a portable sound machine. Plane noise is basically white noise so it doesn
 
 A blanket pulls triple duty — over the car seat for naps, on the floor when my daughter started crawling (yes I put my baby on the airplane floor, zero regrets), and for tummy time on earlier trips.
 
-Things I'd skip: the portable high chair (took it twice around the one year mark, barely used it) and baby headphones (forgot to use them every time, the plane noise genuinely didn't seem to bother her).
+<table style="width:100%; border-collapse:collapse; margin:1.5em 0;">
+  <thead>
+    <tr>
+      <th style="text-align:left; padding:0.5em 1em 0.5em 0; color:#5C7A5C; font-family:Georgia,serif; border-bottom:2px solid #EDE8E0;">✅ Bring</th>
+      <th style="text-align:left; padding:0.5em 1em 0.5em 0; color:#5C7A5C; font-family:Georgia,serif; border-bottom:2px solid #EDE8E0;">❌ Skip</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:0.5em 1em 0.5em 0; border:none;">Stroller (carry on)</td>
+      <td style="padding:0.5em 1em 0.5em 0; border:none;">Portable high chair</td>
+    </tr>
+    <tr style="background-color:#FAF7F2;">
+      <td style="padding:0.5em 1em 0.5em 0; border:none;">Car seat + car seat bag (gate check)</td>
+      <td style="padding:0.5em 1em 0.5em 0; border:none;">Baby headphones</td>
+    </tr>
+    <tr>
+      <td style="padding:0.5em 1em 0.5em 0; border:none;">Baby wearing carrier</td>
+      <td style="padding:0.5em 1em 0.5em 0; border:none;"></td>
+    </tr>
+    <tr style="background-color:#FAF7F2;">
+      <td style="padding:0.5em 1em 0.5em 0; border:none;">Portable sound machine</td>
+      <td style="padding:0.5em 1em 0.5em 0; border:none;"></td>
+    </tr>
+    <tr>
+      <td style="padding:0.5em 1em 0.5em 0; border:none;">Blanket</td>
+      <td style="padding:0.5em 1em 0.5em 0; border:none;"></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## Packing
 
-**Clothes:** Day outfits plus a few extras because blowouts don't care that you're at cruising altitude. Bibs, burp cloths, PJs, hat, jacket, socks, shoes. You know the drill.
-
-**Diapering:** Take more diapers than you think you need. At some point my daughter started pooping more than usual on planes. It's a thing apparently, you've been warned. Pack an extra outfit in your diaper bag specifically for the plane plus a wet bag for dirty clothes — and honestly pack an extra outfit for yourself too. Those airplane bathroom diaper changes can get chaotic.
+<table style="width:100%; border-collapse:collapse; margin:1.5em 0;">
+  <thead>
+    <tr>
+      <th style="text-align:left; padding:0.5em 1em 0.5em 0; color:#5C7A5C; font-family:Georgia,serif; border-bottom:2px solid #EDE8E0;">Category</th>
+      <th style="text-align:left; padding:0.5em 1em 0.5em 0; color:#5C7A5C; font-family:Georgia,serif; border-bottom:2px solid #EDE8E0;">What to Pack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:0.6em 1em 0.6em 0; border:none; font-weight:500;">Clothes</td>
+      <td style="padding:0.6em 1em 0.6em 0; border:none;">Day outfits + extras, bibs, burp cloths, PJs, hat, jacket, socks, shoes</td>
+    </tr>
+    <tr style="background-color:#FAF7F2;">
+      <td style="padding:0.6em 1em 0.6em 0; border:none; font-weight:500;">Diapering</td>
+      <td style="padding:0.6em 1em 0.6em 0; border:none;">More diapers than you think, two changing pads, wipes, extra outfit for baby AND you, wet bag for dirty clothes, lotions, sunscreen (6+ mo), bath soap</td>
+    </tr>
+    <tr>
+      <td style="padding:0.6em 1em 0.6em 0; border:none; font-weight:500;">Feeding</td>
+      <td style="padding:0.6em 1em 0.6em 0; border:none;">Bottles + 1-2 extra, pump + charger + 2 sets of parts, travel drying rack + brush + soap, <a href="https://amzn.to/xxxxxx" style="color:#5C7A5C;">Ceres Chill</a>, formula, snacks, teethers + toys</td>
+    </tr>
+    <tr style="background-color:#FAF7F2;">
+      <td style="padding:0.6em 1em 0.6em 0; border:none; font-weight:500;">Entertainment</td>
+      <td style="padding:0.6em 1em 0.6em 0; border:none;">Books, teethers, toys for whatever developmental stage you're in</td>
+    </tr>
+  </tbody>
+</table>
 
 Two diaper changing pads was a total game changer for me. One in the diaper bag, one left at wherever you're staying. Before that I was constantly hunting for it and it drove me insane.
 
-**Feeding:** Bring your pump, charger, and two full sets of parts. Keep them in a ziplock so you can pump on the go without getting milk everywhere. For transporting breastmilk, the [Ceres Chill](https://amzn.to/xxxxxx) is my top recommendation — it just uses regular ice, no fridge needed. TSA will ask you to open it, no big deal. Formula is the same — they'll test it but won't open it. Once your baby is eating solids bring a ton of snacks for the plane, plus teethers and a few toys for whatever stage you're in.
+Pack an extra outfit in your diaper bag specifically for the plane plus a wet bag for dirty clothes — and honestly pack an extra outfit for yourself too. Those airplane bathroom diaper changes can get chaotic.
 
 ---
 
 ## The Actual Flying Part
 
+> 💡 **TSA tip:** Put all your milk, formula, and liquids in one bin. It means they only pull one tray instead of hunting through everything. Hard to pull off with a baby in your arms but worth attempting.
+
 Feed or nurse on takeoff and landing — the swallowing helps with ear pressure. Wait until you're actually taking off though, not just sitting on the tarmac forever. Sometimes they're too hungry to wait and you just do what you gotta do. Bring a pacifier as backup just in case.
 
-At TSA, try to put all your milk and liquids in one bin. It means they only pull one tray. Hard to pull off with a baby in your arms but worth attempting.
+> 💡 **Feeding tip:** Don't start nursing or giving a bottle until you're actually moving down the runway. You can sit on the tarmac for a surprisingly long time and you don't want to burn your window early.
 
-Here's how we packed everything: stroller and our bags as carry ons, car seat bag gate checked and stuffed with diapers, pack and play and our shared adult suitcase checked. We packed all of our daughter's stuff in the gate check bag on purpose — way easier to replace our own stuff if a bag gets lost than to replace baby gear on the road.
+Here's exactly how we packed everything:
 
-Oh and check your airline's pack and play policy before you go — some airlines like Delta count it as a baby item and won't charge a bag fee.
+<table style="width:100%; border-collapse:collapse; margin:1.5em 0;">
+  <thead>
+    <tr>
+      <th style="text-align:left; padding:0.5em 1em 0.5em 0; color:#5C7A5C; font-family:Georgia,serif; border-bottom:2px solid #EDE8E0;">Where</th>
+      <th style="text-align:left; padding:0.5em 1em 0.5em 0; color:#5C7A5C; font-family:Georgia,serif; border-bottom:2px solid #EDE8E0;">What</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:0.6em 1em 0.6em 0; border:none; font-weight:500;">Carry on</td>
+      <td style="padding:0.6em 1em 0.6em 0; border:none;">Stroller, backpack, tote, diaper bag</td>
+    </tr>
+    <tr style="background-color:#FAF7F2;">
+      <td style="padding:0.6em 1em 0.6em 0; border:none; font-weight:500;">Gate check</td>
+      <td style="padding:0.6em 1em 0.6em 0; border:none;">Car seat in car seat bag (stuffed with diapers and baby's things)</td>
+    </tr>
+    <tr>
+      <td style="padding:0.6em 1em 0.6em 0; border:none; font-weight:500;">Checked</td>
+      <td style="padding:0.6em 1em 0.6em 0; border:none;">Pack and play, one large shared suitcase for the adults</td>
+    </tr>
+  </tbody>
+</table>
 
-And my number one mantra for every trip: you can buy whatever you forgot when you get there. Saved me from overpacking more times than I can count.
+We packed all of our daughter's stuff in the gate check bag on purpose — way easier to replace our own stuff if a bag gets lost than to replace baby gear on the road.
+
+> 💡 **Airline tip:** Check your airline's pack and play policy before you go. Some airlines like Delta count it as a baby item and won't charge a bag fee.
+
+And my number one mantra for every trip: **you can always buy whatever you forgot when you get there.** Saved me from overpacking more times than I can count.
 
 ---
 
-Somehow the easiest trip was that very first one. So if you're on the fence about traveling with your baby — just go. You'll figure out your own system as you go and it is so worth it.
-
-Questions about a specific age or destination? Leave them in the comments!
+Somehow the easiest trip was that very first one. So if you're on the fence about traveling with your baby — just go. You'll figure out your own system and it is so worth it.
