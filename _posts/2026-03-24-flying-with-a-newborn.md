@@ -78,7 +78,7 @@ A blanket pulls triple duty — over the car seat for naps, on the floor when my
     </tr>
     <tr>
       <td style="padding:0.6em 1em 0.6em 0; border:none; font-weight:500;">Feeding</td>
-      <td style="padding:0.6em 1em 0.6em 0; border:none;">Bottles + 1-2 extra, pump + charger + 2 sets of parts, travel drying rack + brush + soap, <a href="https://amzn.to/xxxxxx" style="color:#5C7A5C;">Ceres Chill</a>, formula, snacks, teethers + toys</td>
+      <td style="padding:0.6em 1em 0.6em 0; border:none;">Bottles + 1-2 extra, pump + charger + 2 sets of parts, travel drying rack + brush + soap, <a href="https://amzn.to/4dIQUnH" style="color:#5C7A5C;">Ceres Chill</a>, formula, snacks, teethers + toys</td>
     </tr>
     <tr style="background-color:#FAF7F2;">
       <td style="padding:0.6em 1em 0.6em 0; border:none; font-weight:500;">Entertainment</td>
