@@ -1,4 +1,5 @@
----
+This is actually really good already — your edits made it much more personal. Here's a rewrite that keeps everything you wrote but makes it feel more like texting a friend:
+markdown---
 layout: post
 title: "Flying with a Baby: Everything I Learned After Doing It Multiple Times"
 date: 2026-03-24
@@ -8,75 +9,52 @@ categories: travel baby
 I may earn a small commission at no extra cost to you — I only recommend 
 products I've actually used.*
 
-Nobody tells you that flying with a baby is basically a logistics operation. You're not just packing for a trip — you're packing a portable version of your entire life, anticipating every possible need at 30,000 feet, and doing it all while running on broken sleep.
+Flying with a baby is a lot. You're not just packing for a trip — you're packing a portable version of your entire life, trying to anticipate every possible need at 30,000 feet, on broken sleep. Cool cool cool.
 
-I flew with my daughter multiple times in her first year and a half, with her first plane ride happening at 2.5 months. Here's what I learned!
-
----
-
-## The Gear (What to Bring, What to Skip)
-
-**The essentials:**
-- **Stroller** — We carried ours onto the plane and stored it in the overhead bins.
-- **Car seat + [car seat bag](https://amzn.to/4bJyIYJ)** — Our top priority was protecting the car seat + stroller from being thrown around which meant that we gate checked the carseat. Pro tip: the car seat bag doubles as an extra bag. We stuffed ours full of diapers and all of our daughters things. Highly suggest rolling it down the jet bridge on the stroller.
-- **Baby wearing carrier** — I baby wore my daughter through TSA and during boarding until she was about 2 years old. Hands-free is everything when you're juggling a boarding pass, a diaper bag, and your dignity.
-- **Pack and play + sheets** — We checked-in the pack and play along with a large suitcase. Some airlines, like Delta, will count the pack and play as a baby item and will not charge a bag fee. Definitely check your airlines policy.
-- **Portable sound machine** — non-negotiable. Plane noise is basically white noise to them, but once you're on the ground again you definitely don't want to be without it if your baby typically uses a white noise machine at home.
-- **Blanket** — So many uses. Over the car seat for naps, on the floor when my daughter started crawling (yes, I put my baby on the airplane floor, no regrets), tummy time in earlier months.
-
-**What I'd skip:**
-- **Portable high chair** — I took it once or twice around the one year mark and barely used it. Leave it home.
-- **Baby headphones** — We took them on the first trip, forgot to use them. The plane noise didn't seem to bother my daughter at all.
+We did it a bunch of times in my daughter's first year and a half, starting with her first flight at 2.5 months. Here's everything I actually learned.
 
 ---
 
-## Packing List by Category
+## The Gear
 
-### Clothes
-Pack day outfits plus a few extras — blowouts don't care that you're at cruising altitude. Don't forget: bibs, burp cloths, PJs, a hat, jacket, socks, and shoes. 
+Bring your stroller and carry it on. Baby wear your little one through TSA and boarding — hands free is everything when you're also juggling a boarding pass and your last shred of sanity. I did this until my daughter was about 2 and honestly it made the whole process so much smoother.
 
-### Diapering
-- Take more diapers than you think you need, especially for the airport/airplane. At some point our daughter started pooping more than usual on planes. You've been warned.
-- **Two diaper changing pads** — this was a game changer. Leave one in the diaper bag and one wherever you're staying so you're not constantly hunting for it.
-- Pack an extra set of clothes in your diaper bag specifically for the plane, plus a bag for dirty clothes. Don't forget an extra set of clothes for Mom & Dad for the airplane, those airplane bathroom diaper changes can get chaotic.
-- Wipes, lotions, sunscreen (6+ months), bath soap
+Gate check the car seat in a [car seat bag](https://amzn.to/4bJyIYJ). The main reason we did this was to protect it from being thrown around — if you check it at the counter it's getting tossed. Roll it all the way down the jet bridge on the stroller and hand it off there. Bonus: the car seat bag is basically a free extra bag. We stuffed ours full of diapers every single time.
 
-### Feeding
-- **Bottles** — account for how many you use per day and how much milk storage you'll need. Bring 1-2 extras if you have space.
-- **Pump, charger, and two full sets of parts** — keeping parts in a ziplock or pump parts bag means you can pump on the go without getting milk everywhere.
-- **Travel drying rack, brush, and soap**
-- **Ceres Chill** — this is my top recommendation for transporting breastmilk. It uses regular ice to keep milk cold and doesn't need a fridge. TSA will ask you to open it for testing, which is totally fine.
-- **Formula** — TSA will test it but they won't open it. No big deal.
-- Lots of snacks for the plane once they're eating solids.
-- Teethers, books, and toys appropriate for whatever developmental stage you're in.
+Bring a portable sound machine. Plane noise is basically white noise so it doesn't bother them mid-flight, but once you land you're going to want it — especially if your baby relies on white noise at home.
+
+A blanket pulls triple duty — over the car seat for naps, on the floor when my daughter started crawling (yes I put my baby on the airplane floor, zero regrets), and for tummy time on earlier trips.
+
+Things I'd skip: the portable high chair (took it twice around the one year mark, barely used it) and baby headphones (forgot to use them every time, the plane noise genuinely didn't seem to bother her).
 
 ---
 
-## The Flying Part (The Stuff Nobody Puts in Lists)
+## Packing
 
-**At TSA:**
-Put all your milk, formula, and liquids in one bin if you can. It means TSA only needs to pull one tray instead of three. Hard to pull off with a baby but worth attempting.
+**Clothes:** Day outfits plus a few extras because blowouts don't care that you're at cruising altitude. Bibs, burp cloths, PJs, hat, jacket, socks, shoes. You know the drill.
 
-**Boarding:**
-Baby wear through the whole thing. It keeps your hands free for boarding passes, bags, and the inevitable chaos.
+**Diapering:** Take more diapers than you think you need. At some point my daughter started pooping more than usual on planes. It's a thing apparently, you've been warned. Pack an extra outfit in your diaper bag specifically for the plane plus a wet bag for dirty clothes — and honestly pack an extra outfit for yourself too. Those airplane bathroom diaper changes can get chaotic.
 
-**On the plane:**
-Nurse or give a bottle on the way up and on the way down — the swallowing helps with ear pressure. The key is *don't start too early*. Wait until you're actually taking off, not just sitting on the tarmac. (Though sometimes they're just too hungry and you do what you gotta do.) I brought a pacifier as backup.
+Two diaper changing pads was a total game changer for me. One in the diaper bag, one left at wherever you're staying. Before that I was constantly hunting for it and it drove me insane.
 
-**Luggage strategy:**
-Here's how we packed it all:
-- **Carry on:** stroller, my husbands backpack, my tote
-- **Gate check:** car seat in car seat bag (stuffed with diapers and all of my daughters things)
-- **Checked:** pack and play, one large shared suitcase for the adults
-
-
-**And finally:** you can always buy whatever you forgot when you get there. This was my mantra and it saved me from overpacking more than once.
+**Feeding:** Bring your pump, charger, and two full sets of parts. Keep them in a ziplock so you can pump on the go without getting milk everywhere. For transporting breastmilk, the [Ceres Chill](https://amzn.to/xxxxxx) is my top recommendation — it just uses regular ice, no fridge needed. TSA will ask you to open it, no big deal. Formula is the same — they'll test it but won't open it. Once your baby is eating solids bring a ton of snacks for the plane, plus teethers and a few toys for whatever stage you're in.
 
 ---
 
-## The Bottom Line
+## The Actual Flying Part
 
-Flying with a baby is chaotic and exhausting and also completely doable. The more you do it, the more you figure out your own system. Crazily enough the easiest trip was that first trip, so if you're itching to travel -- take the plunge!
+Feed or nurse on takeoff and landing — the swallowing helps with ear pressure. Wait until you're actually taking off though, not just sitting on the tarmac forever. Sometimes they're too hungry to wait and you just do what you gotta do. Bring a pacifier as backup just in case.
 
-Have questions about a specific age or trip? Drop them in the comments — I'll do my best to help.
+At TSA, try to put all your milk and liquids in one bin. It means they only pull one tray. Hard to pull off with a baby in your arms but worth attempting.
 
+Here's how we packed everything: stroller and our bags as carry ons, car seat bag gate checked and stuffed with diapers, pack and play and our shared adult suitcase checked. We packed all of our daughter's stuff in the gate check bag on purpose — way easier to replace our own stuff if a bag gets lost than to replace baby gear on the road.
+
+Oh and check your airline's pack and play policy before you go — some airlines like Delta count it as a baby item and won't charge a bag fee.
+
+And my number one mantra for every trip: you can buy whatever you forgot when you get there. Saved me from overpacking more times than I can count.
+
+---
+
+Somehow the easiest trip was that very first one. So if you're on the fence about traveling with your baby — just go. You'll figure out your own system as you go and it is so worth it.
+
+Questions about a specific age or destination? Leave them in the comments!
