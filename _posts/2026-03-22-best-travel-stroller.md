@@ -1,4 +1,5 @@
----
+Here's the full file — just copy and paste the whole thing:
+markdown---
 layout: post
 title: "How I Chose a Travel Stroller for a 2.5 Month Old (And Why I Landed on the Silver Cross Jet)"
 date: 2026-03-24
@@ -86,10 +87,16 @@ The [Silver Cross Jet](https://amzn.to/xxxxxx) kept coming up as a direct YOYO a
       <td style="padding:0.6em 1em 0.6em 0; border:none; font-weight:500;">Sun canopy</td>
       <td style="padding:0.6em 1em 0.6em 0; border:none;">Large UPF 50+ canopy</td>
     </tr>
+    <tr style="background-color:#FAF7F2;">
+      <td style="padding:0.6em 1em 0.6em 0; border:none; font-weight:500;">Car seat compatible</td>
+      <td style="padding:0.6em 1em 0.6em 0; border:none;">✅ Yes, with adapters sold separately</td>
+    </tr>
   </tbody>
 </table>
 
 The fully flat recline was the thing that sealed it for me. At 2.5 months my daughter still needed to lie flat — a stroller that only partially reclines wasn't going to cut it.
+
+One other thing worth knowing: the Silver Cross Jet is compatible with infant car seats via adapters that are sold separately. So if you want to click your car seat directly onto the stroller frame you can — just make sure to check which adapters are compatible with your specific car seat before buying.
 
 ---
 
@@ -101,6 +108,8 @@ It held up through multiple trips without any issues. The fold is fast and actua
 
 > 💡 **Pro tip:** Roll the stroller all the way down the jet bridge before handing it off — don't check it at the counter. Gate checking means it gets handled more gently and comes back to you right at the plane door when you land.
 
-The one thing I'd flag: it's not a stroller you'd want as your only stroller for everyday use. The basket underneath is on the smaller side and it's not built for rough terrain. But as a dedicated travel stroller? It's exactly what it's supposed to be.
+A couple things I'd flag: the fold is tricky to learn, definitely check out this [video](https://www.youtube.com/watch?v=tmH8-YUUjJs), once you get the hang of it -- it's magic. also it's not a stroller you'd want as your only stroller for everyday use. The basket underneath is on the smaller side and it's not built for rough terrain. But as a dedicated travel stroller? It's exactly what it's supposed to be.
 
 ---
+
+Whatever you choose — check the recline, check the fold dimensions against your airline's overhead bin specs, and make sure you actually know how to fold it before you get to the airport. Practice at home. Trust me on that one.
