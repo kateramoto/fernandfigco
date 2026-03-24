@@ -1,0 +1,85 @@
+---
+---
+
+@import "minima";
+
+// Fern & Fig custom styles
+
+// Colors
+$brand-green: #5C7A5C;
+$brand-cream: #FAF7F2;
+$brand-brown: #4A3728;
+$brand-light: #EDE8E0;
+
+// Base
+body {
+  background-color: $brand-cream;
+  color: $brand-brown;
+}
+
+// Typography
+h1, h2, h3, h4 {
+  font-family: Georgia, serif;
+  color: $brand-brown;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+}
+
+// Header
+.site-header {
+  background-color: $brand-cream;
+  border-top: 4px solid $brand-green;
+  border-bottom: 1px solid $brand-light;
+}
+
+.site-title {
+  font-family: Georgia, serif;
+  font-size: 1.8em !important;
+  color: $brand-green !important;
+  letter-spacing: 0.05em;
+}
+
+.site-title:visited {
+  color: $brand-green !important;
+}
+
+// Navigation
+.site-nav .page-link {
+  color: $brand-brown;
+  font-size: 0.9em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+// Content
+.page-content {
+  background-color: $brand-cream;
+}
+
+.post-content p, .page-content p {
+  line-height: 1.9;
+  font-size: 1.05em;
+}
+
+// Links
+a {
+  color: $brand-green;
+}
+
+a:hover {
+  color: darken($brand-green, 15%);
+  text-decoration: none;
+}
+
+// Post list
+.post-list h3 a {
+  color: $brand-brown;
+  font-family: Georgia, serif;
+}
+
+// Footer
+.site-footer {
+  background-color: $brand-light;
+  border-top: 1px solid $brand-light;
+  color: $brand-brown;
+}
