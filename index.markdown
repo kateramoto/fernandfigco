@@ -17,9 +17,9 @@ title: ""
 </div>
 
 <div class="category-section">
-  <h2>👶 Preparing for Baby</h2>
-  <p class="category-desc">The research I did so you don't have to — registry lists, hospital bags, and everything in between.</p>
-  {% assign prep_posts = site.posts | where_exp: "post", "post.categories contains 'preparing-for-baby'" | limit: 2 %}
+  <h2>👶 Life w Baby</h2>
+  <p class="category-desc">What we bought, why and was it worth it.</p>
+  {% assign prep_posts = site.posts | where_exp: "post", "post.categories contains 'life-w-baby'" | limit: 2 %}
   {% for post in prep_posts %}
   <article class="post-preview">
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
