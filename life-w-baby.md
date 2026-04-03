@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Preparing for Baby
-permalink: /preparing-for-baby/
+title: Life with baby(x2)
+permalink: /life-w-baby/
 ---
 
-The research I did so you don't have to — registry lists, hospital bags, and everything in between.
+What we decided to buy, why and was it worth it.
 
 {% assign prep_posts = site.posts | where_exp: "post", "post.categories contains 'preparing-for-baby'" %}
 {% for post in prep_posts %}
