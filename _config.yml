@@ -9,5 +9,5 @@ plugins:
   - jekyll-feed
 header_pages:
   - travel.md
-  - preparing-for-baby.md
+  - life-w-baby.md
   - about.markdown
