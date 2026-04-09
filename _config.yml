@@ -4,7 +4,7 @@ description: Real experiences for real moms to learn from. From travel to babies
 baseurl: ""
 url: "https://fernandfigco.com"
 
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 header_pages:
