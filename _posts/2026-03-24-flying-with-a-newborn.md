@@ -3,6 +3,7 @@ layout: post
 title: "Flying with a Baby: Everything I Learned After Doing It Multiple Times"
 date: 2026-03-24
 categories: travel baby
+image: /assets/images/flying-with-baby.jpg
 ---
 
 <img src="/assets/images/flying-with-baby.jpg" alt="Flying with a baby" style="width:100%; height:350px; object-fit:cover; border-radius:8px; margin-bottom:2em;">
