@@ -3,6 +3,7 @@ layout: post
 title: "How I Chose a Travel Stroller for a 2.5 Month Old (And Why I Landed on the Silver Cross Jet)"
 date: 2026-03-24
 categories: [life-w-baby, baby-gear]
+image: /assets/images/flying-with-baby.jpg
 ---
 
 <img src="/assets/images/flying-with-baby.jpg" alt="Travel stroller for babies" style="width:100%; height:350px; object-fit:cover; border-radius:8px; margin-bottom:2em;">
