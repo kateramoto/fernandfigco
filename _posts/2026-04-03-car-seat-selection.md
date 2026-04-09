@@ -2,7 +2,7 @@
 layout: post
 title: "Car Seats: What We Actually Use (And Why)"
 date: 2026-04-03
-categories: life-w-baby baby-gear
+categories: [life-w-baby, baby-gear]
 ---
 
 <img src="/assets/images/car-seats.jpg" alt="Car seat guide for babies and toddlers" style="width:100%; height:350px; object-fit:cover; border-radius:8px; margin-bottom:2em;">
