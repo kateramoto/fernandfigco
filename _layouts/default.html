@@ -127,13 +127,16 @@
       .posts-grid { grid-template-columns: 1fr; }
       .category-section { padding: 3.5rem 2rem; }
     }
+    @media (min-width: 769px) {
+      .home-hero h1 { font-size: 3.5rem; }
+    }
   </style>
 </head>
 <body>
 
   <header class="site-header">
     <div class="wrapper">
-      <a class="site-title" href="{{ '/' | relative_url }}">Fern &amp; Fig</a>
+      <a class="site-title" href="{{ '/' | relative_url }}">Fern <span>& Fig</span></a>
       <nav class="site-nav">
         {%- for path in site.header_pages -%}
           {%- assign my_page = site.pages | where: "path", path | first -%}
