@@ -110,7 +110,9 @@ We have recommended this stroller to two other families, one of which who have b
 
 > 💡 **Pro tip:** If you're gate checking your carseat, roll the carseat in the stroller all the way down the jet bridge before folding it up. I imagine this strategy only works with one kiddo, we're anticipating double the gear once we start traveling with two. 
 
-A couple things I'd flag: the fold is tricky to learn, definitely check out this [video](https://www.youtube.com/shorts/NuWhLSWbOrc), once you get the hang of it -- it's magic. The basket underneath is on the smaller side and it's not built for rough terrain. For us, as a dedicated travel stroller the Silver Cross Jet is exactly what it's supposed to be.
+A couple things I'd flag: the fold is tricky to learn, definitely check out this [video](https://www.youtube.com/shorts/NuWhLSWbOrc), once you get the hang of it -- it's magic. The basket underneath is on the smaller side and it's not built for rough terrain. 
+
+For us, as a dedicated travel stroller, the Silver Cross Jet is exactly what it's supposed to be.
 
 ---
 
