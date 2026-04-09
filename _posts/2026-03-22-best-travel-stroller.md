@@ -104,11 +104,13 @@ One other thing worth knowing: the Silver Cross Jet is compatible with infant ca
 
 Loved it. Genuinely.
 
-It held up through multiple trips without any issues. The fold is fast and actually one-handed once you get the hang of it — which matters a lot when you're in a busy airport holding a baby with your other arm. It fit in the overhead bin every time we flew. And my daughter was comfortable in it from the very first trip.
+This stroller has held up through 2+ years(~15+ trips) without any issues. The fold is fast and could be one-handed once you get the hang of it — which matters a lot when you're in a busy airport holding a baby with your other arm. It fit in the overhead bin every time we flew and my daughter was comfortable in it from the very first trip.
 
-> 💡 **Pro tip:** Roll the stroller all the way down the jet bridge before handing it off — don't check it at the counter. Gate checking means it gets handled more gently and comes back to you right at the plane door when you land.
+We have recommended this stroller to two other families, one of which who have been using it as their main dailiy stroller for 2+ years! I can't speak to their wear and tear but the fact that it's lasted this long is a testament to it's durability.
 
-A couple things I'd flag: the fold is tricky to learn, definitely check out this [video](https://www.youtube.com/shorts/NuWhLSWbOrc), once you get the hang of it -- it's magic. also it's not a stroller you'd want as your only stroller for everyday use. The basket underneath is on the smaller side and it's not built for rough terrain. But as a dedicated travel stroller? It's exactly what it's supposed to be.
+> 💡 **Pro tip:** If you're gate checking your carseat, roll the carseat in the stroller all the way down the jet bridge before folding it up. I imagine this strategy only works with one kiddo, we're anticipating double the gear once we start traveling with two. 
+
+A couple things I'd flag: the fold is tricky to learn, definitely check out this [video](https://www.youtube.com/shorts/NuWhLSWbOrc), once you get the hang of it -- it's magic. The basket underneath is on the smaller side and it's not built for rough terrain. For us, as a dedicated travel stroller the Silver Cross Jet is exactly what it's supposed to be.
 
 ---
 
