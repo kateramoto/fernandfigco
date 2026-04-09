@@ -3,10 +3,10 @@ layout: post
 title: "How I Chose a Travel Stroller for a 2.5 Month Old (And Why I Landed on the Silver Cross Jet)"
 date: 2026-03-24
 categories: [life-w-baby, baby-gear]
-image: /assets/images/flying-with-baby.jpg
+image: /assets/images/silver-cross-jet.jpg
 ---
 
-<img src="/assets/images/flying-with-baby.jpg" alt="Travel stroller for babies" style="width:100%; height:350px; object-fit:cover; border-radius:8px; margin-bottom:2em;">
+<img src="/assets/images/silver-cross-jet.jpg" alt="Travel stroller for babies" style="width:100%; height:350px; object-fit:cover; border-radius:8px; margin-bottom:2em;">
 
 *This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you — I only recommend products I've actually used.*
 
